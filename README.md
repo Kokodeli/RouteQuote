@@ -16,7 +16,7 @@ RouteQuote est une application qui utilise l'API Google Maps pour générer un �
 ### Étapes :
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/kokodeli/RouteQuote.git
+   git clone https://github.com/Kokodeli/RouteQuote.git
 2. Installez les dépendances :
 npm install
 3. Configurez votre clé API Google dans le fichier .env
